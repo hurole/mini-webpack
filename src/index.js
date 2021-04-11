@@ -1,4 +1,4 @@
-import math from './math';
+import math from './math.js';
 
 let result = math.add(11,22);
 
